@@ -1,10 +1,10 @@
 {
-  "name": "apidoc-example",
+  "name": "apidoc-pivotpass",
   "version": "0.3.0",
-  "description": "apidoc example project",
+  "description": "pivot pass api project",
   "title": "Custom apiDoc browser title",
-  "url" : "https://api.github.com/v1",
-  "sampleUrl": "https://api.github.com/v1",
+  "url" : "https://passes.pivot.bm/api/v1",
+  "sampleUrl": "https://passes.pivot.bm/api/v1",
   "header": {
     "title": "My own header title",
     "filename": "header.md"
